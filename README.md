@@ -1,4 +1,4 @@
-</!DOCTYPE html>
+<!DOCTYPE html>
 <html>
    <head>
       <title>The common basilisk</title>
@@ -14,7 +14,7 @@
          <li>
             <a href="index.html">
                <b class="hidden">An</b>
-               "Introduction"
+               Introduction
                <b class="hidden">to Water Lizard<b/>
             </a>
           </li>
@@ -28,6 +28,7 @@
    </p>
    </body>
  </html>
+</!DOCTYPE html>
 
 
 
