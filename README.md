@@ -5,7 +5,19 @@
       <link rel="canonical"
             href="https://en.wikipedia.org/wiki/Common_basilisk">
    </head>
-   <header>
+   <header role="banner" class="banner" id="banner" tabindex:"-1">_</header>
+   <main role="main">_</main>
+   <hr>
+   <nav id="menu" tabindex="-1" role="navigation">
+      <h1 class="hiddden">want to know more? look no further:</hi>
+      <ul>
+         <li>
+            <a href="index.html">
+               <b class="hidden">An</b>
+               "Introduction"
+               <b class="hidden">to Water Lizard<b/>
+            </a>
+          </li>
    <h1 id="logo">The Fascinating Water lizard</h1>
    <a id="nav-jump" href="#menu">Jump to the menu</a>
    </header>
