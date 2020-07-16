@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
    <head>
       <title>The common basilisk</title>
@@ -28,7 +27,6 @@
    </p>
    </body>
  </html>
-</!DOCTYPE html>
 
 
 
