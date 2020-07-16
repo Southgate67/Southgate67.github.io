@@ -1,4 +1,3 @@
-<!DOCTYPE>
 <html>
 <header>
    <h1 id="logo">The Fascinating Water lizard</h1>
@@ -11,7 +10,5 @@
 </p>
 </body>
 </html>
-</!DOCTYPE>
-
 
 
