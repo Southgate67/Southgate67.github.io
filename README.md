@@ -20,9 +20,14 @@ Smaller basilisks can run about 10–20 <abbr aria-label="meters">m</abbr> witho
 </body>
 <footer>
 <ol>
-   <li><a id="nav-jump" href="Description.html">Description</a>
+   <li>
+      <a id="nav-jump" href="Description.html">Description</a>
    </li>
-   <li><a id="nav-jump" href="Geographic range and habitat.html">Geographic range and habitat</a>
+   <li>
+      <a id="nav-jump" href="Geographic range and habitat.html">Geographic range and habitat</a>
+   </li>
+   <li>
+      <a id="nav-jump" href="Diet.html">Diet</a>
    </li>
 </ol>
 </footer>
