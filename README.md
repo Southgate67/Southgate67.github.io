@@ -19,4 +19,12 @@ First is the slap, the downward movement of the foot that pushes water out and a
 Next is the stroke, the backwards movement of the foot, which propels it forward. Next is the recovery, when the foot comes up and out of the water and prepares to do the slap again.
 Smaller basilisks can run about 10–20 <abbr aria-label="meters">m</abbr> without sinking.Juveniles can usually run farther than older basilisks, while holding more of their body above the surface.</p>
 </body>
+<footer>
+<ol>
+   <li><a id="nav-jump" href="Description.html">Description</a>
+   </li>
+   <li><a id="nav-jump" href="Geographic range and habitat.html">Geographic range and habitat</a>
+   </li>
+</ol>
+</footer>
 </html>
