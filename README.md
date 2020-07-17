@@ -28,7 +28,7 @@ Smaller basilisks can run about 10–20 <abbr aria-label="meters">m</abbr> witho
    </li>
    <li>
       <a id="nav-jump" href="Diet.html">Diet</a>
-   <li>
+   </li>
    <li>
       <a id="nav-jump" href="Predator.html">Predator</a>
    </li>
@@ -37,6 +37,9 @@ Smaller basilisks can run about 10–20 <abbr aria-label="meters">m</abbr> witho
    </li>
    <li>
       <a id="nav-jump" href="Walking on water.html">Walking on water</a>
+   </li>
+   <li>
+      <a id="nav-jump" href="Taxonomy and etymology.html">Taxonomy and etymology</a>
    </li>
    <li>
       <a id="nav-jump" href="References.html">References</a>
