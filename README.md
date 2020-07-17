@@ -1,7 +1,6 @@
 <html>
 <header>
    <h1 id="logo">The Fascinating Water lizard</h1>
-   <a id="nav-jump" href="Description.html">Description</a>
 </header>
 <body>
 <p>
