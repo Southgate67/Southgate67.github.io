@@ -14,7 +14,7 @@ The species is <a href="https://en.wikipedia.org/wiki/Endemism">endemic</a> to C
    <img src="Image P.jpg"
    srcset="Image P.jpg 1440w,
                 Image P_small.jpg 500w"
-        sizes="(min-width:1440px) 500px, 50%" alt=""
+        sizes="(min-width:1440px) 500px, 50%" alt="">
 </body>
 <footer>
 <ol>
