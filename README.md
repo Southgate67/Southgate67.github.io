@@ -1,14 +1,20 @@
 <html>
 <header>
    <h1 id="logo">The Fascinating Water lizard</h1>
-   <img src="Image A.jpg" alt="">
+   <img src="Image O.jpg"
+        srcset="Image O.jpg 1600w,
+                Image O_small.jpg 500w"
+        sizes="(min-width:1600px) 500px, 50%" alt="">
 </header>
 <body>
 <p>
 The common basilisk (Basiliscus basiliscus) is a species of lizard in the <a href="https://en.wikipedia.org/wiki/Family_(biology)">family</a> <a href="https://en.wikipedia.org/wiki/Corytophanidae">Corytophanidae</a>.
 The species is <a href="https://en.wikipedia.org/wiki/Endemism">endemic</a> to Central America and South America, where it is found near rivers and streams in rainforests.
 <strong>It is also known as the Jesus Christ lizard, Jesus lizard, South American Jesus lizard, or <i lang="spa">lagarto de Jesus Cristo</i> for its ability to run on the surface of water</strong>.</p>
-   <img src="Image B.jpg" alt="">
+   <img src="Image P.jpg"
+   srcset="Image P.jpg 1440w,
+                Image P_small.jpg 500w"
+        sizes="(min-width:1440px) 500px, 50%" alt=""
 </body>
 <footer>
 <ol>
