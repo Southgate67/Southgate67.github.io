@@ -1,9 +1,9 @@
 <html>
 <header>
-   <img src="Green_anole.jpg"
-        srcset="Green_anole.jpg 800w,
-                Green_anole.jpg 400w"
-        sizes="(min-width:800px) 400px, 50%"alt="">
+<img src="Green_anole.jpg"
+     srcset="Green_anole.jpg 800w,
+             Green_anole.jpg 400w"
+     sizes="(min-width:800px) 400px, 50%"alt="">
    <h1 id="logo">The Fascinating Water lizard</h1>
 </header>
 <body>
