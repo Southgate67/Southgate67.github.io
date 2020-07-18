@@ -42,7 +42,7 @@ Smaller basilisks can run about 10–20 <abbr aria-label="meters">m</abbr> witho
       <a id="nav-jump" href="Taxonomy and etymology.html">Taxonomy and etymology</a>
    </li>
    <li>
-      <a id="nav-jump" href="References.html">References</a>
+      <a id="nav-jump" href="References and acknowledgement.html">References and acknowledgement</a>
    </li>
    <li>
       <a id="nav-jump" href="Acknowledgement.html">Acknowledgemnt</a>
