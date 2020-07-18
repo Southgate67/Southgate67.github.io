@@ -1,7 +1,7 @@
 <html>
 <header>
-   <img src="Image A.jpg" alt="">
    <h1 id="logo">The Fascinating Water lizard</h1>
+   <img src="Image A.jpg" alt="">
 </header>
 <body>
 <p>
