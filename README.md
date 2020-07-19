@@ -1,6 +1,6 @@
 <html>
 <header>
-   <h1 id="logo">The Fascinating Water lizard</h1>
+   <h1 id="logo"><a href="https://southgate67.github.io/Description">The Fascinating Water lizard</a></h1>
    <img src="Image O.jpg"
         srcset="Image O.jpg 1600w,
                 Image O_small.jpg 500w"
