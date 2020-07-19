@@ -43,7 +43,7 @@ The species is <a href="https://en.wikipedia.org/wiki/Endemism">endemic</a> to C
       <a id="nav-jump" href="References.html">References</a>
    </li>
    <li>
-      <a id="nav-jump" href="Acknowledgement.html">Acknowledgemnt</a>
+      <a id="nav-jump" href="Acknowledgement.html">Acknowledgement</a>
    </li> 
 </ol>
 </footer>
