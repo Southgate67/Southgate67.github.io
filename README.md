@@ -47,4 +47,14 @@ The species is <a href="https://en.wikipedia.org/wiki/Endemism">endemic</a> to C
    </li> 
 </ol>
 </footer>
+   <p>
+   <p>
+     <footer style="background: black; border: 10px solid; /* #f99 */ box-shadow: 3px 3px 3px  #f90; color: mediumspringgreen;">
+     <h1 id="logo">Contacts</h1>
+     <p>Email: southgate7626@gmail.com</p>
+     <p>Facebook:</p>
+     <p>Linkedin:</p>
+</footer>
+</p>
+</p>
 </html>
